@@ -1,0 +1,3 @@
+Merge sort took 135 milliseconds.
+
+Bucket sort took 102 milliseconds.

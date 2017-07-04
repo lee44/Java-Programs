@@ -1,0 +1,2 @@
+No, because as the number of letters for a word increases, the possible combination of words and the number of words needed to
+be compared to the dictionary increases by n factorial. The number of comparisons is n comparisons so the Big O is O(n!).
