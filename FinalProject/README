@@ -1,4 +1,7 @@
 All files are part of a group project in which we created a super mario based game. 
 We built everything from scratch which includes sound, hit detection, physics, sprite images,
-animations, layout design for our level. My responsibility was handling the hit detection and
-designing the layout for our game.
+animations, layout design for our game. My responsibility was handling hit detection and
+designing the layout for our game. For hit detection, I simply surrounded each object with rectangles 
+and created a method that checked if any other object was inside its boundaries. For the layout, I used
+a txt file and drew the level with a bunch of numbers where 1 signified a sprite image of the ground and 2 
+represented obstacles. A method would read txt file and render the level.
