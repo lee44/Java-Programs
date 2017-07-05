@@ -1,2 +1,4 @@
-All files are part of a group project in which we created a super mario based game. We built everything from scratch which includes sound,
-hit detection, physics, sprite images, animations, layout design for our level. 
+All files are part of a group project in which we created a super mario based game. 
+We built everything from scratch which includes sound, hit detection, physics, sprite images,
+animations, layout design for our level. My responsibility was handling the hit detection and
+designing the layout for our game.
