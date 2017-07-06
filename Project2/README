@@ -1,2 +1,5 @@
 In project2, I built a Stack class which uses a linked list as the data structure. With this stack, I used it to check if
-an input of left parentheses is matched with right parentheses.
+an input of left parentheses is matched with right parentheses. To do this, I pushed all left parentheses inside stack and
+everytime I read a right parentheses, I popped a left parentheses in the stack. If the stack was empty when I read a right
+parentheses, then the method would return false or after iterating through the entire input, if the stack was not empty, return 
+false.
