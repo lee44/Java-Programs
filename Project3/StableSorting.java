@@ -63,7 +63,7 @@ public class StableSorting
 		int[] counts = new int[NUM_SCHOOLS];
 		Student[]s=new Student[students.length];
 		
-	    
+	    	//This loop counts how many students are enrolled for each school
 		for(int i=0;i<students.length;i++)
 		{
 			int c=schoolToIndex(students[i].getSchool());
