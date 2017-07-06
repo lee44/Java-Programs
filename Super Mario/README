@@ -1,2 +1,8 @@
 All these files are programmed by me for a Super Mario Game. I created my own hit detection, 
-sound, level design, gravity, animation, and enemy movement. 
+sound, level design, gravity, animation, and enemy movement. Hit detection is implemented by surrounding
+each object with rectangles and constantly calling a method if any other rectangles enter an objects boundaries.
+Sound just plays the original Super mario game theme music. For level design, I use a txt file and draw the level 
+using numbers like 1 and 2. 1 would represent the ground sprites and 2 would be obstacles that would rendered so 
+you can imagine many 1's and 2's. Gravity is simply subtracting the characters jump height at a constant rate.
+Animation involves animating character movement when the user moves the character, enemies walking back and forth, and 
+coins that spin.
