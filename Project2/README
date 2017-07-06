@@ -1,0 +1,2 @@
+In project2, I built a Stack class which uses a linked list as the data structure. With this stack, I used it to check if
+an input of left parentheses is matched with right parentheses.
